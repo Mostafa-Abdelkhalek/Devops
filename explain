@@ -1,0 +1,5 @@
+first i will tell you about that
+local delete
+git branch -d branch-name
+remote delete
+git push origin :branch-name
